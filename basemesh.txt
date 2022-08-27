@@ -1,0 +1,58 @@
+Hi guys!
+In this video, we will create the basemesh for a female character together. 
+Here is a quick overview of what you can expect. Feel free to follow along and create your own. If you need a reference, my version will be available to download from the link in the description. 
+This model is a great starting point to create your own, stylized characters. You can modify the body, the face, the skin tone, just everything about this base character to fit a variety of characters you want to create.
+On this model, some areas are a little stylized, such as the fingers and toes. But if you're following along, you can add details wherever you want.
+I also tried to keep the amount of polygons at an absolute minimum, to keep the flexibility for quick changes later on. Instead, we will be using subdivision surface modifiers to give the illusion of smoothness.
+But without further ado, let's get started!
+
+Quick disclaimer: Don't let the internet discourage you, this whole thing took me about 3 hours. So don't be discouraged if you need longer than this video, everything you see here is sped up with an added voice over. 
+Also, if you've never worked with Blender before, i recommend getting comfortable with the interface first. I won't explain shortcuts, but you can see what keys i'm pressing down here in the right hand corner. 
+We're starting with the head, and work our way down the body as we go. 
+Let's start with the default cube, add a loopcut down the center with Ctrl + R, select one half, delete it and add a mirror modifier to replace what we just threw away. 
+Thus is the circle (or cube?) of life, my dear friend.
+Next, we add more loop cuts until our default cube vaguely resembles the shape of a head. You can also add a subdivision surface modifier to add the illusion of more polygons, when indeed you have not so many polygons to make your life easier.
+When you're done with this, we're going to extrude the neck. You want to prepare a circle like this where you want the neck to be. 
+If you're satisfied with the circle, extrude the neck. I believe it helps to view more than one angle at once, so feel free to adjust your interface by dragging from the corners of one view. 
+After this, we're going to extrude the neck even further and model some shoulders. Make sure to drag the vertices of your current lowest line out from the center, if you have clipping on in the mirror modifier. 
+Extrude the vertices even further down to model the upper back and the chest area. make sure to leae a little space for the arms and extrude to close the sides underneath the arm pits. 
+You don't have to do this now, but i decided this was a great moment to add some more subdivisions for the face and shape the nose. 
+Let's focus on the shoulders for now. Extrude the upper half of your arm circle two times to create the space where the arm leaves tho body. You can start to create a downward curve to emulate the curve of your shoulder. 
+Make sure to check everything from multiple angles and adjust your vertices because 3 dimensions are tricky sometimes. I like to use my numpad to snap to one axis like you can see in the 2 viewports on the left and use the bigger viewport for all the angles in between.
+Next, start extruding the arms. Remember those shoulders we created? I like to create an A-pose instead of a T-pose, which makes it easier to rig and animate the character later on.
+We're going to build the torso next. You know the drill, select the lowest loop and extrude it downward and start to create a waist and hips in the front view. We can worry about the side view later.  
+If you've reached this point, start to adjust the arm length and align it with the torso. A good benchmark is to have the elbows on the same height as the waist, and your hands should start at the thiccest point of the hips. Of course, this depends on how stylized you want your character to be, but in this case i'm sticking to mostly realistic proportions.
+Let's focus on the chest area. I really hope youtube won't ban me for this, but it's just a few polygons. Nothing to see here. We are doing just a simple anatomy study. 
+Start with deleting the general area, for me this was these 6 quads here, and start to inset them. This might look weird for a minute, but we are going somewhere. Trust the process. 
+Switch to side view and extrude it as fas as you like, and inset it again until you close the gap in the middle. When you've almost closed the gap, mark all the vertices on the innermost ring and merge them together in the center. 
+This next step is optional, but i merged 2 of the neighboring faces together to create quads instead of triangles and to reduce the polygon count a little. 
+Adjust the general shape to make it look the way you want. What i did not do here, but i've noticed other artists do, you can mark the lower area where the boob hits the ribcage as a sharp to avoid an awkward smooth gravity-defying mesh like this.
+When working with a mirror modifier, clipping can help sometime, but there are moments, where you want things to not snap to the middle. If you're struggling with this, i see you, you're valid.
+With all this done, we're going to get us a pair of legs. 
+Start by extruding the crotch area and go around the uhm... area between the legs and merge the extruded mesh to the back.
+If you also put this crotch area way too low, go back in and shorten the torso. I like to use the edge slide tool to reduce the loop count on the model. 
+If you're happy with what you've done so far, we can start extruding the legs. Don't mind me adding some thiccness to the butt mesh, i feel that it makes it easier to know where everything is supposed to be. 
+You can always take some time and refine your mesh, in my opinion it helps tremendously and you can see a lot of progress this way. 
+Don't worry if you've accidentally given your mesh a brazilian butt lift, you can always adjust things later.
+Ok, back to the legs. Just keep on extruding downwards, and if you like, you can scale down your extrusions toward the knee, scale them out again for the lower legs and scale them down again as you get closer to the feet. 
+Next, we're going to create some feet. I had to figure this one out and after a few attempts this is what i did: 
+Mark the side of the loop that's in the back, extrude it down, to create the heel, then mark the new circle you created and extrude it forward a few times to model the foot itself. 
+Lookin good so far, i just had to fix a few mesh problems.
+In the next step, you need to decide how detailed you want your feet to be. If you want individual toes, go ahead and model them. I decided to go for one big toe and just a simplified toe cluster, so i extruded the bug toe, closed it in the front and then repeated this step for the little toe assembly. 
+
+When you're finished with the feet, go give your model some leg muscles. You might want to switch to sculpt mode or activate proportional editing to easily deform larger areas. 
+When the legs are done, i also remeshed the knee. Delete the front knee panels and inset them by pressing I. Doing this will make it easier to animate the model later on, because the mesh will deform easier. After insetting, fill the area with f and move it forward slightly to give your knees a more pronounced look if you want. I Also added another half loop in the back of the knee to make it even easier to deform later on. 
+Let's add the last thing that is missing to form a complete mesh: The hands. Same with the feet, decide on how detailed you want your hands to be. I was not sure at first and tried to go for a detailed index finger and thumb with a 3-finger-cluster, but then switched plans and did the same thing as with the feet and modeled a large 4-finger cluster and the thumbs.  
+If you happen to have some polygons inside your mesh, as i do with the fingers here, make sure to delete them to avoid confusions later on if you rig the model or do some UV unwrapping.
+From this point onward, everything is just creating more details and refining the mesh. Congratulations for making it this far, but keep on watching for some extra details and how i did the face.
+As for the face, i used the knife tool to add a loop around the nose. Then, extrude it to create the nose shape that you want from the front and side view. 
+For the eyes, i inset this one quad and adjusted the shape. This might look weird for a moment, but i'm sure it will be ok later. 
+One thing i did not know when filming this process, keeping some vertices on the back of the eyes is not necessary. You want to have some polygons extruded into the head to avoid holes and having the match everything when creating the eyes, but having the extra polygons in the back is just going to make your life harder when doing UV unwrapping. You're also going to have an easier time at this point when adjustin the eye shape.
+I added an extra loop cut between the chin and the nose the create the mouth, and used the knife tool to split those loop cuts to create more vertices for the lips. 
+Make sure to adjust everything in front and side view. 
+When you're happy, extrude the inner lip loop inside, but as with the eyes, you don't need an inside bubble. Just extrude a few loops and you should be fine. At this point, you can also add teeth or a tongue if you want, but i decided to leave it out for now. 
+I decided to reshape the eyes a bit and added more muscle mass to the whole model. Especially the arm and the stomach were too thin in my opinion, so i adjusted these areas with proportional editing on. 
+At this point, we're going to add some eyeballs to fit into the sockets we made before. Add a sphere, give it a mirror modifier, shade it smooth if you want and move it to its place. Adjust everything aaaaand you are done with your very own base model!
+Thank you very much for watching if you made it this far, let me know what you think or if you have any suggestions. I promise to use this model for future videos, as this will most likely become the base for some future models that i will create. 
+But for now, i hope you have a very nice day and i also hope to see you soon. Bye!
+

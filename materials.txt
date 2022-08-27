@@ -1,0 +1,85 @@
+10 hours of materials - Blender diary
+
+DAY 1 - brainstorming, theory about basic nodes
+
+Ideas what to create:
+- daylight scene: changing light?
+- planet system with rotating generated planet materials, maybe with death star?
+    - recreate Universal movie opening?
+- create soundwaves
+- create countdowns like on digital clocks
+- portals like in portal2
+
+
+What i want to know more about:
+- texture painting:
+    - what resolution?
+    - external editors?
+    - many textures for the same object?
+    - roughness etc. paintable?
+
+- shader nodes
+    - how to use
+    - randomizing stuff
+    - what input is needed? like, pics or fully generatable?
+    - animate shader nodes (daylight changing animation?)
+    - color modes (color burn, mix, addition, hard light, soften etc)
+    - node wrangler addon
+    - what node output can go into what input?
+
+- normal maps
+    - how to generate
+    - usable for retopologizing?
+
+- HDRIs
+    - how to capture
+    - how to use (view in scene, exchange)
+    - visible in background?
+    - difference eevee/cycles?
+
+- skin material (realistic)
+    - why so hard? cuz complex?
+    - generatable or doable with texture painting?
+
+- how to use materials
+    - fake users? when saved, when not?
+    - duplicate 
+    - emission: only for one colour in material?
+    - matcaps
+    - rainbow colours/textures
+    - change materials based on proximity to edge?
+    - clay materials for wips
+
+
+
+
+
+Things i watched: 
+- https://www.youtube.com/watch?v=moKFSMJwpmE (Day 1, Nodes 4 Noobs, Grant Abbit)
+- https://www.youtube.com/watch?v=yffWd4kI51Q (Day 1, Top 6 Blender Nodes To Make Any Material, CG Cookie)
+
+Wanna watch: 
+- https://www.youtube.com/watch?v=hccqcCIGGUw
+
+What i learned:
+Day 1: 
+- think of materials as paint buckets: each object with the same material will change when you change the material
+- eevee and cycles will render things HELLA differently, especially things like glass or other transparent stuff. Keep in mind when lookin for tutorials
+    - eevee: fakes more things, kinda hard time with transparence, cycles: more grainy, needs more settings tweaked afaik
+- you can go really far by simply tweaking BSDF (default) sliders (mainly roughness, specular, emission) without using any nodes. That's what i did since i started with Blender almost a year ago
+- not only objects can be edited, world space can be edited too - has influence on objects. backgrounds cannot be applied to single objects, only to world. Makes sense lol
+- node types: 
+    - texture coordinate: UV layout
+    - color ramp: change sharpness of shadows, create gradients by tweaking RGB values. plug texture coordinate (generated) -> fac to create 
+        - change linear/constant etc for different edge shapes (sharp, smooth)
+        - add sliders for greater variance
+    - noise texture: randomize stuff, change detail, roughness etc
+    - voronoi texture: cellular, organic shapes, grid lines by changing random, scale and mode
+        - put texture coord (uv) -> vector to create planet guidelines (lat + longitude lines)
+    - mix rgb: mixes not only colours, can also transition between 2 modes (noise texture (fac) -> color1 and boronoi (distance) -> color2), transition with fac)
+    - bump: can simulate height, uses black and white. only affects white areas, use black to not apply effect
+    - put everything into normal principled bsdf
+
+Day 2: 
+- what does bsdf stand for?
+- play around with skills from day 1, maybe create fist planets?

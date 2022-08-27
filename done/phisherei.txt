@@ -1,0 +1,23 @@
+Hello everyone, let me introduce you to my newest project: 
+This tiny fishermans house, made entirely in Blender. 
+Let me show you how i modeled it and how to set up the scene. 
+We are going to start with the default cube, press Ctrl + R to add a loop cut, move the upper middle up to create the basic house shape and bring it up to meet the y and z axis. 
+Next, i'm going to set up some basic materials to give us a rough idea what the finished scene will look like. You can always tweak the values later, but by assigning the materials as you go saves you a lot of time later on. 
+After this, i'm extruding the roof of the house to give it more details and assign materials i just designed. 
+When you're done, add a cylinder to make a window, rotate and scale it to give it the shape you want and inset the outer ring to form the window frame. 
+Press F to fill it with a polygon and, again, assign the material. 
+We are going to do the same with a door, rotate scale and inset to create the shape. 
+Next, we're going to switch to the roof, press Ctrl, R and 5 to add 5 loop cuts and bring them down a bit along the x axis in the middle to create an old, weathered look. 
+After this, we're going to add 2 spheres and assign the materials we defined for water and sand. Scale your water up, switch to Sculpt mode and use the grab brush to push it under the house. 
+We're going to do the same with the sand sphere, just push it in Sculpt mode until you're happy with the shape. 
+For the wooden landing bridge, we're going to add a cube, scale it along X and add an Array modifier. I'm adding a few poles aka cylinders to anchor it down and stop it from floating. 
+To make the water seethrough, we're going to turn transmission all the way up to 1, and in the Render tab click Screen Space Reflections, open the dropdown and click Refraction. Tweak Specular and Roughness until you're happy and you got see through water!
+Ok, time for the phishing mails. We're scaling a fresh cube into a rectangle and cut it with the Knife tool by pressing K. Extrude some vertices to give it more of a 3D look and press Ctrl B to bevel the edges a little. 
+Because the sea is full of trash, duplicate the mail as often as you like, place them wherever you want and rotate them to make them look more random. 
+Next, we're going to make a little sign to show us the way to the house. Add some text, switch to Edit Mode to put your text, assign your desired font in the menu and don't forget to convert the text to a mesh!
+Place the text onto a deformed cube and align it.
+Next, add a cylinder and add a few loop cuts to make a bucket to store the mails you just phished. Take one mail from the sea, and duplicate it to place it inside the bucket. Duplicate even more mails and scatter them along the beach, because spam is everywhere. 
+But mails shouldn't be the only clutter, so we're adding a few rocks. Just add a cube, press Ctrl 3 to subdivide it, sculpt it to your desired shape and scatter a few of them on the beach, on the house, wherever you want. 
+And, with this, you're done!
+I hope you enjoyed watching this video, let me know down below what you think and maybe consider subcribing if you had fun or learned something new. 
+Have a nice day, and now, go check your mails!
