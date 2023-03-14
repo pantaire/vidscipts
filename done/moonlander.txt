@@ -1,0 +1,75 @@
+# Intro
+Recently, i got a split keyboard. Since then, I spent the time testing it, getting to know it and relearn how to type. so i think it's about time for a review of 
+THE MOONLANDER. 
+Quick disclaimer: I am in no way sponsored by ZSA, the producers behind the moonlander. I bought it myself and everything in this video is my personal opinion. 
+
+# What is it? What makes it special?
+The moonlander is a split keyboard, one half for each hand. It is by no means the first split keyboard out there, but i have a feeling that many other split keyboards are adressed to and mostly accessible to tinkerers and hardcore nerds. The moonlander and maybe its precursor, the Ergodox EZ, seem to be the first split keyboards made for a larger market. 
+Since its launch about a year ago, the moonlander has sold over 31.000 times, so there's the data to back up my theory.
+
+The intention of split keyboards is to provide a more ergonomic feel and writing position, since regular keyboards feel a little cramped and cause you to round your shoulders forward and the hand position doesn't really feel optimal. 
+It's also ortholinear, which means all the keys are in straight columns instead of a staggered position like regular keyboards 
+
+At 365$, it's definitely not cheap.
+What makes it special is the biiig range of customization and all the accessories it comes with. 
+ it comes in this box, which contains a soft traveling case, a forbidden snack, a hex tool to tilt the keyboard, all the cables you need, the keyboard itself, and a keycap and switch puller. 
+The box also points to a link to a short introduction to get started. 
+
+Let's take a look at the costumization options.
+
+# Configuration/Customization
+## Ordering
+The customization begins on ZSAs website, where you can order the moonlander.
+There are 2 colors, white and black, 2 kinds of keycaps, blank and sculpted or printed and unsculpted. Sculpted, in this case means a slight curve along the rows to match the curvature of your hand even better. 
+But that's not all. You can choose between about every keyswitch i've ever heard of, cherry, khail, you name it.
+
+And since there is such a big and ever growing community behind this keyboard, there are so many accessories available. Some of them can be 3D printed, some are sold by ZSA. And you can, of course, make your own at home. 
+ZSA also sells spare parts, so if anything breaks, if you need new switches, keycaps, you can simply reorder them.
+
+I got the white version of the moonlander with blank keycaps and 10 additional keycaps in black to spice it up a little bit. My switches are the cherry browns, so you are allowed to call me basic for that.
+
+## Hardware
+Everything works out of the box, you can even disconnect the right half of the moonlander and just use the left half with a mouse, which makes it great for gaming. 
+This option seems to be so popular, that they recently launched the halfmoon, which is just the left half, with the option to upgrade to a full moonlander later on. 
+So if you want to, you can truly make the moonlander yours. The keyboard itself offers two ways to be tilted: you can move the thumb cluster up and down, and use the little legs to curve the keyboard a little. Although its recommended to start with a flat moonlander, i started with a little tilt and i do quite like it. The tenting legs and the handrests are included with the keyboard, so there's no need to order any extra.
+And everything is still small enough to fold up into the travel case. The handrests fold up, and even though you need the hex tool to flatten it for traveling, you can pack it up in under two minutes. Also, there's a little extra case for the hex tool so you won't lose it.
+
+## Software
+Now, onto the most exciting part of the customization options, the software.  ZSA provides an online tool called oryx, where you can remap the keys on your moonlander. There's a default layout already installed on the keyboard, so you technically don't need to use oryx. Oryx also provides a huge library of already existing layout made by the community, which you can clone and customize to your liking. 
+I mostly use my keyboard for  3 things: Writing or coding, gaming and Blender. You can simply search Oryx for any of those keywords and adjust any of those layouts to your liking.
+This goes beyond pressing shift or control to write a different character, you can also set up macros or assign emojis to a single key or define different behaviours depending on whether you just tap or hold a key. 
+Another feature i like reaaally much is the option to customize layers. You can create different layers above one another and toggle between them. For example, i tried to set up a custom layer for Blender with all the shortcuts i need on one half of the keyboard, so i got my right hand to use for the mouse. This is still a work in progress, and i'm still finetuning this layer. I also added another layer to mimic a numpad, which i can use to quickly type in numbers. 
+Since the whole keyboard comes with full RGB LEDs, you can also assign custom colors to each key on each layer. Don't worry, there are also different rainbow loops preinstalled, which you can use to showcase your keyboard. 
+Oryx also helps you tremendously because you can just search for what you need and it will provide you with suggestions.
+And, best of all, you can save your layout straight to the keyboard, so you don't need to customize again when you plug it in to another computer. 
+## Training mode 
+Oryx also provides a training mode, which helps you test out new layouts. It offers different modes for different scenarios, you can train to write code, random texts from books, or train numbers and special characters. It also offers some insight about where you made the most mistakes and how fast you were compared to previous attempts.
+
+# The first weeks
+This has been a kinda long introduction, sorry about that, but i wanted to tell you about all the awesome features of the moonlander. 
+Now, i've been typing on this keyboard for about 2-3 weeks, and it definitely needs some getting used to. 
+Since the key positions are quite different from regular keyboards, I kinda had to relearn how to type. 
+The thumb cluster was a real pain in the ass for the first few days. And even now, most of my mistakes come from hitting the wrong key with my thumbs. On regular keyboards, you only need to hit spacebar with your thumb. Of course, you could customize the moonlander to only assign the space key to all the thumb keys, but i feel this is kind of wasting a lot of the potential. So, i sticked with a layout which has all kinds of modifier keys on the thumb cluster, which are needed for a lot of navigation shortcuts. 
+Not gonna lie, I wanted to throw it out of the window on the first 3 days. 
+## Typing speed
+Before i got the moonlander, i benchmarked my typing speed on this website. I am not the fastest typer out there, but i achieved a decent average of around 60 words per minute, with my record being 73wpm. 
+Since i got the moonlander, i dedicated a few minutes each day to do typing training on both oryx and this website and i recently hit 75 words per minute which surpassed my personal best on a regular keyboard. My average is back to where it was 3 weeks ago, but i plan to keep up the training and get even faster, so i guess the moonlander helped me level up my typing game already. 
+## Cheating
+I need to admit, i did not order the moonlander in white for the aesthetics. I got the white one because i knew getting used to new layouts would be hard and i wanted a little way to cheat. So i took a pencil and wrote the characters on some of the keys. My goal was of course to not look at my hands for regular typing - that's why i got the blank keycaps - but the thumbcluster and the custom layer for Blender i created disrupt this workflow a little. So, i think cheating is ok in this case. 
+
+# What i like and hope for in the future
+## Custom Keycaps
+One of the main things i like about the moonlander is the vast possibilities to customize it. You can customize the hardware, you can customize the layouts - but is this enough? Will it ever be enough? What i really hope for in the future are custom keycaps in more than 2 colors. I really like their design with the minimalistic glowing dash, but more colors would be great. Although the community is really strong and active and already provides a lot, I also hope for customizable keycaps for the thumb cluster, since this red key is only available in red. But there's light on the horizon, all of these use standardized sizes, so you could possibly swap them with other keycaps, but i haven't yet found a full set designed for the moonlander or a custom key which fits the triangle-ish shape of the red thumb key. 
+## Personal layouts 
+I also really love the possibility to share your layouts with the community, although each layout and especially the thumb cluster need some getting used to. 
+## Great support
+A friend of mine, who also has a moonlander, recently had a problem where one half of the keyboard was acting up, so he messaged the support at ZSA. Their warranty policy provided quick tips and even offered to send him a new keyboard while they fix his current one. Luckily, he could fix the error, so thumbs up for their tech support. 
+## A bit pricey
+Like i said before, the moonlander is a bit pricey, but by far not the most expensive keyboard i've seen out there. Although shipping is included in the price, keep in mind that you may need to pay import fees, like i did. Since the keyboard is shipped directly from taiwan - but for the customization offers and the software and all that is included, the price is definitely fair. For the future i'd wish for a reseller or shipping from inside the EU, to work around the import fees and maybe shorten the delivery time. Although it was shipped via express delivery, ordering to unboxing the package took about 10 days.
+
+# Would i change back to regular?
+I don't think so. Even after 3 weeks with naturally tilted, shoulderwidth apart hands, my arms feel really umcomfortable when switching to a regular keyboard. I believe there is a true health benefit in typing on a moonlander, so i'm happy i got one and will most likely use it for a long time. 
+
+That's it, these are my thoughts about my new keyboard, sorry if it turned into an advertisement like... right from the beginning, but i really love it and wanted to tell you about this crazy thing i found and tried out. 
+So, i hope you enjoyed this video, hope you pressed the subscribe and the like button and hope you will continue to have a nice day. 
+Bye!

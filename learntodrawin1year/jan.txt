@@ -1,0 +1,53 @@
+# Intro
+
+Hello everyone, and welcome to a new yearlong challenge of getting better at drawing! 
+My name is taire and I'm one of the participants in this journey hosted by Marc Brunet. Although I already have some experience with traditional and digital art and even with 3D modeling, I felt it was time to ascend to the next level artwise and get back into the basics.
+This is why I'm here to share with you the results of the first month, January, and it's been an exciting start!
+
+# What is the challenge about?
+
+But let me tell you a little about this challenge first. If you already know or maybe participate as well, feel free to skip to the next chapter at this timestamp [timestamp].
+This program is hosted by Marc Brunet from Youtube Art School, who worked as a Senior Artist at Blizzard and is busy posting awesome tutorials on Youtube, so I greatly encourage you to check him out. All links are below, and when you're already at Marc's Youtube, go watch his video about this challenge - he's offering a breakdown of all months so you can prepare in advance and get the full picture of where we will be at the end of the year.
+In general, each months challenge consists of one exercise that you'll do repeatedly, if possible each day, one or two topics to study and one bigger task. 
+
+# This months challenge
+
+For January, this means at least 30 gesture drawings, each one taking between 2 and 5 minutes. The study area consists of perspective basics and shape studies in black and white. The bigger task in January is studying pieces of artists you like. This will help you get a better understanding of what you admire and where you might move in the next year.
+
+# I made a website
+
+Before we start, I made a webpage for this challenge to put a little pressure onto myself. Even though Marc offers a download of all months in an overview, I felt I needed something of my own to track my progress. I added some diagrams with time breakdowns and overall tasks and will continue to track how I'm going along the journey. As always, all links are below, and if you're participating as well, feel free to clone my project on github and track your own progress.
+
+Enough of the tech talk, let's dive into the recap and take a look at what I've got.
+
+# Gestures
+
+Let's have a look at the gesture drawings I did. 
+Although I mostly focus on digital art, I wanted to reconnect to paper and will continue to do so throughout the year. So let's crank out my sketchbook. Some things of what you will see next are really wonky, please don't judge me.
+According to drawpaintacademy.com, gestures mean "capturing the action, form and pose of a subject", starting with just a few lines to capture a line of action and adding details as you go.
+At first, I really did not know what a gesture drawing really was, so i just started sketching random people in various poses. 
+The first ones took way longer than the allowed 5mins. But researching what gesture drawing really meant really helped a lot to actually get this done. 
+I experimented with various styles and ways to start. For some poses, I did the classic shape blocking I'm already used to, but for others I skipped this step and just went straight in and sketched the outlines, adding shadows if i had enough time. 
+Diving straight into outlines and skipping the shape blocking part was definitely fun to try. Since drawing shapes tends to take such a long time, I will try to skip this phase and get straight to outlining in the future.
+
+# Perspective Basics, Shape studies (black + white)
+
+On to the next topics, perspective Basics and Shape studies. I really didn't know what to do with this ones, so I completely procrastinated on these two. I had an art teacher in school who would always have us do drills with drawing cubes and cylinders from different angles, so that's what i did - but that's about it. I did try though to incorporate different perspectives into my gesture drawings, so i guess this counts as a win.
+
+# Studies of art you like
+
+The next task was studying art that you like. For this task, I made a list of artists I really like and what I like about their art. I tried to compare their work to my own and find areas I wanted to improve. Once I identified those things I wanted to work on, I started by tracing some of their art works. 
+Disclaimer: If you plan to trace someone elses art and publish it as your own, AT LEAST ask them first. Many people consider this stealing and you might get in trouble with copyright claims for doing so. But in most cases, tracing for personal studies is considered ok. 
+Since I've never really traced art before, this technique was also new to me and I was surprised at how relaxing it was. Just copying a finished piece into Krita and drawing over the lines is something I definitely will incorporate into my future workflow. 
+I also want to take this a step further in the future and get a better understanding of the general flow of an art piece, where the lines of actions flow and how the whole composition with a character and their environment works. 
+Because I was just tracing, there's no finished piece here to show you. But I hope you enjoyed the progress videos in the background.
+
+
+# What did i learn?
+Ok, let's wrap up this month.
+There are some key take aways I want to share with you:
+The first one is kind of obvious, but I can't stress this enough. Practice makes perfect, just looking at art and calling it studying isn't going to get you as far as tracing or finding the composition keys in an artwork.
+
+Building a habit of just drawing 5mins a day is harder than i thought, but i will try to stick to it in the future. Although it definitely is ok to skip a day, we're all just humans after all. 
+You can rest, but you can not give up.
+Other than that? I'm really excited for all that lies ahead, there's definitely great things to come and i can't wait to get there.

@@ -10,7 +10,7 @@ Quick disclaimer: Don't let the internet discourage you, this whole thing took m
 Also, if you've never worked with Blender before, i recommend getting comfortable with the interface first. I won't explain shortcuts, but you can see what keys i'm pressing down here in the right hand corner. 
 We're starting with the head, and work our way down the body as we go. 
 Let's start with the default cube, add a loopcut down the center with Ctrl + R, select one half, delete it and add a mirror modifier to replace what we just threw away. 
-Thus is the circle (or cube?) of life, my dear friend.
+Don't worry about any details, we're gonna worry about that later.
 Next, we add more loop cuts until our default cube vaguely resembles the shape of a head. You can also add a subdivision surface modifier to add the illusion of more polygons, when indeed you have not so many polygons to make your life easier.
 When you're done with this, we're going to extrude the neck. You want to prepare a circle like this where you want the neck to be. 
 If you're satisfied with the circle, extrude the neck. I believe it helps to view more than one angle at once, so feel free to adjust your interface by dragging from the corners of one view. 

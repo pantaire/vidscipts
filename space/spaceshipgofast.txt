@@ -1,0 +1,12 @@
+How to make your space ship go fast in Blender in 5a easy steps
+i love going fast and i like to trick my audience.
+Because this space ship is, in fact, not going fast, it's just going up and down. 
+What's going fast is this tutorial and those starts flying by. 
+So, here's how to recreate this effect
+1. grab your spaceship
+2. add a circle in front  and fill it up if you need to,
+3. then, in the modifier tab, add a particle system to the circle.
+4. Switch to the particle properties and play around with the settings. 
+5. Add keyframes to your space ship going up and down
+The most important ones are The number of emitted particles and their velocity
+Congratulations, don't get lost in space

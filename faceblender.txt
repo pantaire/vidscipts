@@ -1,0 +1,56 @@
+Hi guys! 
+Have you ever heard of our lord and saviour Blender? This free dutch software used to make donuts, anime porn, visual effects and game assets has taken up a huge chunk of my free time since I first opened it in 2018. 
+Since then, I have posted about a few projects, tried to conform to instagrams everchanging dogma of various forms of content, started a Youtube channel and uploaded a few tutorials. 
+
+They're great btw, check them out. 
+
+But. 
+the one thing i never seemed to get done.
+the reason why i started blender. 
+the stone i would roll up a hill if i were sisyphus.
+was to create human characters. 
+So that's why we're gathered here today to look at old attempts at playing god, to create humanoids in my likeness.
+
+I'm sharing this video to send a message to you to not get discouraged, no matter on which point of your learning journey you currently are. Some time in the future, you will look back and notice that you have gotten a whole lot better. So keep on going that you may someday have this opportunity.
+
+To say it in the phrasing of a long term nuclear waste warning: 
+What is here was dangerous and repulsive to us. 
+Ok, not dangerous, but not pretty enough to ever see the day of light. 
+
+If you're just starting out with blender or art in general, don't let this discourage you. Simply keep on going, practice on, look at the masters, analyse their work and grow from their mistakes.
+If you're better than me, I envy you. But I will keep practicing until we, at long last, stand on this hill we will die on, as equals.
+
+So, ok, let's get going, let's crank out some old .blend files.
+
+Nextcloud/
+Blender/baseface
+Ok, here are some classic exhibits of what lurks on my computer. I don't even remember doing. Those files were created in September 2021, and I would like to say that I've improved since then - which not really happened. The thing is, I modeled this one while following a tutorial (i believe?) and ended up with this. But where do you go from there? It's just a sculpted head with a hefty polygon count. To actually be useful for, idk, a game asset or to be rigged, you would need to remesh it and bring down the amount of polygons. 
+But if you're like me, your motivation for a project will be gone after about 1h and you will begin the same project in a few days again, never having learned anything. Life is great.
+
+Blender/blender52/sokka
+Another masterpiece of a head, this time i tried to do sokka from aang the last airbender. Opposite to the last one, I started with few polygons and tried to subdivide my way to a complete head.
+This project was one of my first tries at polymodeling, I was just getting started with modifiers, as you can see up here 
+The level of detail is immaculate, i will not elaborate further. 
+
+blender52/draka2
+This is one that made it to youtube, i uploaded a timelapse of how i made it! Full disclosure, this is one of the projects i'm most proud of. and why, you ask? Because it's actually finished. It's sculpted, texturepainted and has a good amount of details, even though it's just a simple bust.
+This was part of a draw this in your style challenge and i decided to make a 3D model out of the prompt. I like her. Why can't every project look like her.
+
+/blendfiles/2021/humanbasemeshV1.blend
+You know it's gonna be good if your file is labeled like this.
+The design is very human, she loves breathing oxygen and ingesting nutrients through her beautiful mouth. 
+Ok, jokes aside, this was one of my first sculpting attempts. You can see an attempt at somewhat accurate anatomy with the collar bones and i even tried to model some arm muscles here. So there's that. An attempt has been made.
+
+/blendfiles/Unfinished/puffy.blend
+Ok, let's move on to another attempt at sculpting a head. With this one, I tried to emphasize an expression, and needless to say, it could be worse? i guess? 
+
+/blendfiles/smolv2
+As weird as it looks, I was so proud of this one when i made it. It's supposed to be a ninja, and i was so proud of myself for assigning more than one material! 
+
+/characters/faye.blend
+This is just another face i modeled from scratch (are you seeing a pattern yet?)
+And needless to say, this is starting to look like something? I'm not quite sure why exactly i started another layer to remesh the surface, but both layers look somewhat ok to me. 
+Compared to the other projects you have just seen, this is a million lightyears ahead. She actually has lips! You don't believe how much i struggled to get those right. Even though the benchmark for good 3D artists is good looking ears, let's just focus on the general face of this one. The loops are closed. Her mouth is ready to be rigged. Her eyes just need some lashes and they're ready to go. This is just *chefs kiss* a master piece. At least, compared to the rest.
+
+/Sculptober
+Let's have a look at some rendered pieces, shall we? 
